@@ -10,9 +10,9 @@ bounty on [make.fun](https://make.fun).
 
 ## The line
 
-> You will find the bug not in your code, but in the assumption you never thought to question.
+> Tonight you will search for the log line you deleted last week for being too noisy.
 
-92 characters, one line, no trailing newline.
+83 characters, one line, no trailing newline.
 
 ## How it works
 
